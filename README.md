@@ -20,7 +20,8 @@ HELLO THERE!
 
 Social Media  :
 <ul>
-  <li>Instagram : ![insta](https://www.flaticon.com/free-icon/instagram_2111463?term=instagram&page=1&position=4&origin=search&related_id=2111463) <p><a href="https://www.instagram.com/felofixie/">felofixie</a></p></li>
+  <li>Instagram : <img src="https://www.flaticon.com/free-icon/instagram_2111463?term=instagram&page=1&position=4&origin=search&related_id=2111463"></img> <p><a         href="https://www.instagram.com/felofixie/">felofixie</a></p>
+  </li>
 </ul>
 
 <!---

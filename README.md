@@ -20,7 +20,7 @@ HELLO THERE!
 
 Social Media  :
 <ul>
-  <li>Instagram : <img src="https://www.flaticon.com/free-icon/instagram_2111463?term=instagram&page=1&position=4&origin=search&related_id=2111463"></img> <p><a         href="https://www.instagram.com/felofixie/">felofixie</a></p>
+  <li>Instagram : <p><img src="[https://www.flaticon.com/free-icon/instagram_2111463?term=instagram&page=1&position=4&origin=search&related_id=2111463](https://img.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721278800&semt=ais_user)"></img><a href="https://www.instagram.com/felofixie/">felofixie</a></p>
   </li>
 </ul>
 

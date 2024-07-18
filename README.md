@@ -19,7 +19,10 @@ HELLO THERE!
 </ul>
 
 Social Media  :
-Instagram : ![instagram](https://www.flaticon.com/free-icon/instagram_2111463?term=instagram&page=1&position=4&origin=search&related_id=2111463) <p><a href="https://www.instagram.com/felofixie/">felofixie</a></p>
+<ul>
+  <li>Instagram : ![insta](https://www.flaticon.com/free-icon/instagram_2111463?term=instagram&page=1&position=4&origin=search&related_id=2111463) <p><a href="https://www.instagram.com/felofixie/">felofixie</a></p></li>
+</ul>
+
 <!---
 MuhammadAhsandev/MuhammadAhsandev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

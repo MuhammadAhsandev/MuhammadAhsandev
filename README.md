@@ -14,4 +14,4 @@
   - **Senior Highschool**: Vocational School SMK Negeri 1 Subang
 
 ### Social Media
-- <img src="https://static.vecteezy.com/system/resources/previews/018/930/691/original/instagram-logo-instagram-icon-transparent-free-png.png" alt="insta" width="35"/> **Instagram**: [felofixie](https://www.instagram.com/felofixie/)
+- <img src="https://static.vecteezy.com/system/resources/previews/018/930/691/original/instagram-logo-instagram-icon-transparent-free-png.png" style="vertical-align: middle; margin-right: 5px;"/> **Instagram**: [felofixie](https://www.instagram.com/felofixie/)

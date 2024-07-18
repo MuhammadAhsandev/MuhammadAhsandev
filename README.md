@@ -2,7 +2,7 @@
 <br>
 
 
-<h3>Hello there!</h3> 
+<h3 style="text-transform: uppercase">Hello there!</h3> 
 <p style="font-size: 18px">I am Muhammad Ahsan Nasrulloh</p>
 🙌Junior FrontEnd Developer🙌 
 
